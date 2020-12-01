@@ -1,0 +1,27 @@
+@media only screen and (min-width: 768px) {
+    .container{
+        margin-top:4%;
+        width:35%;
+    }
+    .form-control-feedback {
+        position: absolute;
+        padding: 10px;
+        pointer-events: none;
+    }
+    .form-control {
+        padding-left: 30px!important;
+    }
+    .card{
+        width:100%;
+    }
+    .btn{
+        width:100%;
+    }
+    .alert-danger{
+        margin-top:1px;
+    }
+    
+    
+
+
+}
